@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedaMaida
-- 👀 I’m interested in coding and Android development through kotlin
+- 👀 I’m interested in coding and pytorch, research work and computervision through pytorch
 - 🌱 I’m currently learning dsa in Python and System Programming 
 - 💞️ I’m looking to collaborate on different coding projects 
 - 📫 How to reach me ...
